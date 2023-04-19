@@ -11,8 +11,7 @@
 </p> -->
 
 
-✧ I’m currently working on becoming a Full Stack Software Developer at Coding Dojo. ✦
-
+✧ I’m currently working on becoming a Full Stack Software Developer at Coding Dojo. ✦ <br/>
 ✧ I’m currently learning Full Stack for Python, MERN, and Java. ✦
 
 

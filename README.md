@@ -34,6 +34,6 @@
 ### Tools I Use
 ![tools](https://skillicons.dev/icons?i=bash,vscode,git,github)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=brittneyperez&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Brittney's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&langs_count=8&theme=dracula&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=brittneyperez&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Brittney's GitHub stats" height="185px" /> <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&langs_count=8&theme=dracula&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 
 <img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">

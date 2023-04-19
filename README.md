@@ -1,4 +1,9 @@
-<h1 align="center">こんにちは 🌸 Hello, I am Brittney. 👋</h1>
+<h1 align="center">
+  <img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/9eaa98877a012149b7f9b623830cbd2b424edde0/assets/cinnamoroll_skating.gif">
+  こんにちは 🌸 Hello, I am Brittney. 
+  <img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/9eaa98877a012149b7f9b623830cbd2b424edde0/assets/cinnamoroll_skating.gif">
+</h1>
+
 
 <!-- <p align="center">
   Visitor count<br>

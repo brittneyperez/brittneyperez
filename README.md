@@ -20,7 +20,7 @@
 <!-- Here are some ideas to get you started: -->
 ✧ 🔭 I’m currently working on becoming a Full Stack Software Developer at Coding Dojo. ✦ <br/>
 ✧ 🌱 I’m currently learning Full Stack for Python, MERN, and Java. ✦ <br/>
-✧ ⚡ My Hobbies: gaming, language learning, reading, drawing & 3D modeling ✦
+✧ ⚡ My Hobbies: gaming, language learning, & reading ✦
 
 <!-- - 👯 I’m looking to collaborate on ...  -->
 <!-- - 🤔 I’m looking for help with ... -->

@@ -31,8 +31,8 @@
 
 
 ### Languages & Tools:
+![tools](https://skillicons.dev/icons?i=bash,vscode,github,git)
 ![skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,flask,bootstrap,nodejs,react,mongodb)
-![tools](https://skillicons.dev/icons?i=bash,vscode,git,github)
 
 ### My GitHub Stats
 <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=brittneyperez&count_private=true&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&include_all_commits=true" alt="Brittney's GitHub stats" height="185px" /> <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&langs_count=8&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Top Langs" height="185px" />

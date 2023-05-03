@@ -1,7 +1,7 @@
 <h1 align="center">
-	<img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_floating.gif">
+	<img height="100" width="100" src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_floating.gif">
 	<img text-align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=71CFC2&width=435&lines=Hello%2C+I'm+Brittney+(%5E-%5E)v;%E2%9C%A7+A+Full+Stack+Software+Developer+%E0%A9%88%E2%9C%A9" />
-	<img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/9eaa98877a012149b7f9b623830cbd2b424edde0/assets/cinnamoroll_skating.gif">
+	<img height="90" width="125" src="https://github.com/brittneyperez/brittneyperez/blob/9eaa98877a012149b7f9b623830cbd2b424edde0/assets/cinnamoroll_skating.gif">
 </h1>
 
 
@@ -42,4 +42,4 @@
 
 <!-- **PENDING INFO** -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=A0F2F7&width=435&lines=%E2%80%A7%CB%9A%E2%9C%A7%E2%80%A7%E2%82%8A*+Welcome+to+My+Page+*+%E0%A9%88%E2%9C%A9%E2%80%A7%E2%82%8A%CB%9A%E2%9C%A9+;*%E2%80%A7%E2%9C%BF%CB%9A%E2%80%A2+%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E3%80%82*+%E2%9C%BF+%E2%80%A7%E2%82%8A%CB%9A+%E2%9D%80;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFcoderBri%E3%80%82)](https://git.io/typing-svg)  -->
-<img height="50" src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">
+<img height="50" width="100" src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">

@@ -19,7 +19,7 @@
 
 <!-- Here are some ideas to get you started: -->
 ✧ I’m currently working on becoming a Full Stack Software Developer at Coding Dojo. ✦ <br/>
-✧ I’m currently learning Full Stack for Python, MERN, and Java. ✦ <br/>
+✧ I’m currently learning Python, MERN, and Java. ✦ <br/>
 ✧ I’m looking to collaborate on full stack applications ✦ <br/>
 ✧ My Hobbies: reading, language learning & gaming ✦
 

@@ -25,7 +25,7 @@
 	<div style="display:flex; align-items:center; justify-content: between;">
 	<img alt="Bri's GitHub stats" style="width: 300px; height: auto;"
 		src="https://github-readme-stats.vercel.app/api?username=brittneyperez&theme=nord&show_icons=true">
-	<img alt="Bri's Top Langs" style="width: 225px; height: auto;" 
+	<img alt="Bri's Top Langs" style="width: 230px; height: auto;" 
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&theme=nord"> <br />
 	<img height="50" width="100" 
 		src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">

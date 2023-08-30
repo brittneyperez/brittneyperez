@@ -22,16 +22,12 @@
 <div align="center">
 	<hr />
 	<h3>GitHub Stats</h3>
-	<div style="display:flex; align-items:center; justify-content: between;">
-	<img alt="Bri's GitHub stats" style="width: 300px; height: auto;"
-		src="https://github-readme-stats.vercel.app/api?username=brittneyperez&theme=nord&show_icons=true">
-	<img alt="Bri's Top Langs" style="width: 230px; height: auto;" 
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&theme=nord"> <br />
-	<img height="50" width="100" 
-		src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">
-</div>
-	<!--- <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=brittneyperez&count_private=true&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&include_all_commits=true" alt="Brittney's GitHub stats" height="150px" />
-	<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&langs_count=8&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Top Langs" height="150px" /> --->
+	<div align="center">
+		<img src="https://github-readme-stats.vercel.app/api?username=brittneyperez&theme=rose_pine&show_icons=true" alt="Bri's GitHub stats" style="width: 300px; height: auto;">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&theme=rose_pine" alt="Bri's Top Langs" style="width: 300px; height: auto;"> <br />
+		<img height="50" width="100" 
+			src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">
+	</div
 </div>
 
 

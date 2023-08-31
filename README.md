@@ -23,8 +23,9 @@
 	<hr />
 	<h3>GitHub Stats</h3>
 	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=brittneyperez&theme=rose_pine&show_icons=true" alt="Bri's GitHub stats" style="width: 300px; height: auto;">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&theme=rose_pine" alt="Bri's Top Langs" style="width: 300px; height: auto;"> <br />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittneyperez&layout=compact&theme=rose_pine" alt="Bri's Top Langs" style="height: 185px; width: auto;">
+		<img src="https://github-readme-stats.vercel.app/api?username=brittneyperez&theme=rose_pine&show_icons=true" alt="Bri's GitHub stats" style="height: 185px; width: auto;">
+		<br />
 		<img height="50" width="100" 
 			src="https://github.com/brittneyperez/brittneyperez/blob/63837904ae6e686b250ddab2f647fe4c3999ee9b/assets/cinnamoroll_treating.gif">
 	</div
